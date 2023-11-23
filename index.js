@@ -1,3 +1,4 @@
 
-console.log('hello there123')
-console.log('234')
+function add(num1,num2){
+    return num1+num2;
+}
