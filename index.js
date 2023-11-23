@@ -1,5 +1,5 @@
 
-console.log('hello there123')
-console.log('234')
-
-console.log("This change is done by fakhar from branch:'fakhar")
+console.log('Hello from index.js')
+function add(num1, num2) {
+    console.log(num1 + num2);
+}
